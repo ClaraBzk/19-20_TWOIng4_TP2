@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'My Lucida';
     src: url('../font/LucidaGrande.ttf');
-    font-style: normal; 
+    font-style: normal;
     font-weight: bold;
 }
 
@@ -189,7 +189,7 @@ input.submit {
 #albums article figcaption {
     color: #4b5c66;
     margin-top: 6px;
-    white-space: nowrap;
+    /*white-space: nowrap;*/
     text-overflow: ellipsis;
 }
 
